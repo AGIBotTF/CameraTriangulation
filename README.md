@@ -1,4 +1,4 @@
-# 🎥 CameraTriangulation: Stereo-Vision Playground 🕶️✨
+# 🎥 CameraTriangulation 🕶️✨
 
 Welcome to the ultimate stereo-vision toolkit that turns two camera feeds into 3D magic! Grab your chessboard, fire up your cameras and let’s dive into the world of real-time depth estimation.
 
